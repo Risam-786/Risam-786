@@ -9,6 +9,16 @@
 
 LeetCode: https://leetcode.com/u/risam2004/
 
+
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
+
+<br>
+<a href="https://leetcode.com/u/Risam-786/">
+    <img src="https://leetcard.jacoblin.cool/Risam-786?=dark&font=Goldman&ext=heatmap"></img>
+<a>
+
+
+
 🌐 Contact Me On
 
 Website:https://risam-786.netlify.app/
